@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV5
+http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205101.m3u8
+#EXTINF:-1 ,凤凰卫视
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 ,漫威电影
+https://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8?wsSecret=4421bd0e85753072d342cdc19d96891f&wsTime=5e601aef
+#EXTINF:-1 ,周星驰电影
+https://bd.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_2500.m3u8?wsSecret=2aea944172e668ce0a98646471d9052e&wsTime=5e601be6
