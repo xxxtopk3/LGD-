@@ -1,4 +1,0 @@
-CCTV5，http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205101.m3u8
-凤凰卫视，http://liveali.ifeng.com/live/FHZW.m3u8
-漫威电影，https://aldirect.hls.huya.com/backsrc/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_2500.m3u8?wsSecret=4421bd0e85753072d342cdc19d96891f&wsTime=5e601aef
-飞车电影，https://aldirect.hls.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_2500.m3u8?wsSecret=dbbdc8fff9a230760e6da3b16324ace4&wsTime=5e601c70
